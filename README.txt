@@ -1,7 +1,12 @@
 Foldean - Cross-platform Downloads Organizer
 
+TODO
+- Config for Files -> Folder mapping
+- Convert app into a long running background process
+- Watch folders for changes
+
 Overview
-Foldean organizes your Downloads folder into clean, predictable subfolders based on file type. It runs as a safe dry-run by default and only moves files when you pass --apply.
+Foldean (Folder-Clean) organizes your Downloads folder into clean, predictable subfolders based on file type. It runs as a safe dry-run by default and only moves files when you pass --apply.
 
 Key features
 - Cross-platform: macOS, Windows, Linux
